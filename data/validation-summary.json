@@ -1,0 +1,16 @@
+{
+  "template_count": 39,
+  "unique_ids": true,
+  "all_serials_present": true,
+  "all_options_unselected": true,
+  "patient_order_values_blank": true,
+  "insulin_patient_doses_blank": true,
+  "source_references_resolve": true,
+  "csv_covers_all_templates": true,
+  "forbidden_incretin_combinations_absent": true,
+  "clinical_validation": "not performed",
+  "production_platform_testing": "not performed",
+  "review_date": "2026-10-06",
+  "medicine_reference_count": 53,
+  "csv_option_rows": 178
+}
